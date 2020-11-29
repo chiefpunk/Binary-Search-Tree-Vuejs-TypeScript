@@ -1,0 +1,995 @@
+{
+  "id": "M",
+  "name": "DD - MASTER TEMPLATE",
+  "children": [
+    {
+      "id": "FG1119",
+      "name": "BUSINESS INFORMATION",
+      "children": [
+        {
+          "id": "FG1120",
+          "name": "Primary Contact",
+          "children": [
+            {
+              "id": "FG1122",
+              "name": "Name",
+              "children": [{ "id": "F2277", "name": " " }]
+            },
+            {
+              "id": "FG1123",
+              "name": "Position",
+              "children": [{ "id": "F2278", "name": " " }]
+            },
+            {
+              "id": "FG1124",
+              "name": "Phone",
+              "children": [{ "id": "F2279", "name": " " }]
+            },
+            {
+              "id": "FG1125",
+              "name": "Email",
+              "children": [{ "id": "F2280", "name": " " }]
+            },
+            {
+              "id": "FG1126",
+              "name": "LinkedIn",
+              "children": [{ "id": "F2281", "name": " " }]
+            }
+          ]
+        },
+        {
+          "id": "FG288",
+          "name": "Key Information",
+          "children": [
+            {
+              "id": "FG289",
+              "name": " ",
+              "children": [
+                { "id": "F2282", "name": "Business objective" },
+                { "id": "F2287", "name": "Ask" },
+                { "id": "F2288", "name": "Exit" },
+                { "id": "F2289", "name": "Next financing" },
+                { "id": "F775", "name": "Company legal name" },
+                { "id": "F776", "name": "Founded" },
+                { "id": "F777", "name": "Location" },
+                { "id": "F778", "name": "Website" },
+                { "id": "F780", "name": "Traction" },
+                { "id": "F782", "name": "Industry / Market" },
+                { "id": "F783", "name": "Product description" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "id": "FR156", "name": "PITCH DECK", "children": [] },
+    {
+      "id": "FG86",
+      "name": "DUE DILIGENCE",
+      "children": [
+        {
+          "id": "FG138",
+          "name": "To access the complete due-diligence report, contact:",
+          "children": [
+            {
+              "id": "FG139",
+              "name": "Name",
+              "children": [
+                { "id": "F472", "name": "Company Contact" },
+                { "id": "F475", "name": "DD Team Lead" }
+              ]
+            },
+            {
+              "id": "FG140",
+              "name": "Phone",
+              "children": [
+                { "id": "F473", "name": "Company Contact" },
+                { "id": "F476", "name": "DD Team Lead" }
+              ]
+            },
+            {
+              "id": "FG141",
+              "name": "Email",
+              "children": [
+                { "id": "F474", "name": "Company Contact" },
+                { "id": "F477", "name": "DD Team Lead" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FG70",
+          "name": "Due diligence team",
+          "children": [
+            {
+              "id": "FG73",
+              "name": "Name",
+              "children": [
+                { "id": "F339", "name": "Coordinator / Lead" },
+                { "id": "F483", "name": "Legal Documents Checklist" },
+                { "id": "F488", "name": "Reference Checks" },
+                { "id": "F493", "name": "Site Visit" }
+              ]
+            },
+            {
+              "id": "FG74",
+              "name": "Brief Bio",
+              "children": [
+                { "id": "F340", "name": "Coordinator / Lead" },
+                { "id": "F484", "name": "Legal Documents Checklist" },
+                { "id": "F489", "name": "Reference Checks" },
+                { "id": "F494", "name": "Site Visit" }
+              ]
+            },
+            {
+              "id": "FG87",
+              "name": "Email",
+              "children": [
+                { "id": "F363", "name": "Coordinator / Lead" },
+                { "id": "F485", "name": "Legal Documents Checklist" },
+                { "id": "F490", "name": "Reference Checks" },
+                { "id": "F495", "name": "Site Visit" }
+              ]
+            },
+            {
+              "id": "FG88",
+              "name": "Phone",
+              "children": [
+                { "id": "F366", "name": "Coordinator / Lead" },
+                { "id": "F486", "name": "Legal Documents Checklist" },
+                { "id": "F491", "name": "Reference Checks" },
+                { "id": "F496", "name": "Site Visit" }
+              ]
+            },
+            {
+              "id": "FG89",
+              "name": "CV / Resume",
+              "children": [
+                { "id": "F369", "name": "Coordinator / Lead" },
+                { "id": "F487", "name": "Legal Documents Checklist" },
+                { "id": "F492", "name": "Reference Checks" },
+                { "id": "F497", "name": "Site Visit" }
+              ]
+            }
+          ]
+        },
+        { "id": "FG855", "name": "Summary Findings", "children": [] },
+        {
+          "id": "FG480",
+          "name": "Marketing & Sales - Due Diligence Review",
+          "children": [
+            { "id": "FG709", "name": "Reasons to Invest", "children": [] },
+            { "id": "FG711", "name": "Reasons to be Cautious", "children": [] },
+            {
+              "id": "FG707",
+              "name": "Customer interview summaries",
+              "children": []
+            },
+            {
+              "id": "FG713",
+              "name": "Partner interview summaries",
+              "children": []
+            },
+            {
+              "id": "FG201",
+              "name": "Marketing & Sales Due-diligence Questions",
+              "children": [
+                {
+                  "id": "FG915",
+                  "name": "Overall Strategy",
+                  "children": [
+                    {
+                      "id": "FR89",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "FR90",
+                          "name": "How strong is the competition in this segment?"
+                        },
+                        {
+                          "id": "FR91",
+                          "name": "How will the company recruit distribution channels? This should include a discussion of time, effort, recruitment cost, support cost & channel compensation."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG893",
+                  "name": "Market Assessment",
+                  "children": [
+                    {
+                      "id": "FG914",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1978",
+                          "name": "Is the company targeting a new or existing market?"
+                        },
+                        {
+                          "id": "F1982",
+                          "name": "Does the company have a practical and coherent sales and marketing plan?"
+                        },
+                        {
+                          "id": "F1984",
+                          "name": "Does the company have key relationships with marketing / sales partners?"
+                        },
+                        {
+                          "id": "F1986",
+                          "name": "Does the company have or need joint ventures?"
+                        },
+                        {
+                          "id": "F1988",
+                          "name": "Does the company's strategy match their resources - i.e.: are they in danger of spreading their efforts too thinly?"
+                        },
+                        {
+                          "id": "F1990",
+                          "name": "Has the company chosen the best possible initial penetration point for the market?"
+                        },
+                        {
+                          "id": "F1992",
+                          "name": "Will the company have to create demand or are they meeting an existing demand?"
+                        },
+                        { "id": "F1994", "name": "How big is the market?" },
+                        {
+                          "id": "F1996",
+                          "name": "Does the company's market research support their market assessment, revenue, growth predictions and financial assumptions?"
+                        },
+                        {
+                          "id": "F1998",
+                          "name": "What is their stage of development? Concept, alpha, beta, or shipping?"
+                        },
+                        {
+                          "id": "F2000",
+                          "name": "If the company has already introduced its product or service into the market, what is the number of current and potential customers?"
+                        },
+                        {
+                          "id": "F2002",
+                          "name": "What is the length of its sales cycle?"
+                        },
+                        {
+                          "id": "F2004",
+                          "name": "What are the channels of distribution?"
+                        },
+                        {
+                          "id": "F2006",
+                          "name": "Does the company’s product or service have a seasonal aspect?"
+                        },
+                        {
+                          "id": "F2008",
+                          "name": "Is this the market growing, stable or shrinking?"
+                        },
+                        {
+                          "id": "F2010",
+                          "name": "Are the company's COGS stable and do they match benchmarks for their target segment?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG726",
+                  "name": "Competition",
+                  "children": [
+                    {
+                      "id": "FG729",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1728",
+                          "name": "How strong are the competitors?"
+                        },
+                        {
+                          "id": "F1730",
+                          "name": "Are there potential competitors in overlapping market segments?"
+                        },
+                        {
+                          "id": "F1732",
+                          "name": "What are the barriers to entry for the company's market segment?"
+                        },
+                        {
+                          "id": "F1734",
+                          "name": "Could competitors imitate the Company's strategy?"
+                        },
+                        {
+                          "id": "F1736",
+                          "name": "How is the company's product or service different from the competition?"
+                        },
+                        {
+                          "id": "F1738",
+                          "name": "Can the company add products or services to counter competitors entering the market?"
+                        },
+                        {
+                          "id": "F1740",
+                          "name": "What is the company's distinct competitive advantage - secret sauce?"
+                        },
+                        {
+                          "id": "F1742",
+                          "name": "How does the Company protect its secrets? (e.g.: Non-Disclosure Agreements)"
+                        },
+                        {
+                          "id": "F1744",
+                          "name": "How does the Company monitor its competitive landscape? (e.g.: trade journals, tradeshows, industry organizations, market research, etc.)"
+                        },
+                        {
+                          "id": "F1746",
+                          "name": "How does the company's pricing & value  compare to competitors?"
+                        },
+                        {
+                          "id": "F1916",
+                          "name": "Who are the company’s competitors?"
+                        },
+                        {
+                          "id": "F1918",
+                          "name": "Does the company have a realistic understanding of its competitors?"
+                        },
+                        {
+                          "id": "F1920",
+                          "name": "Is it easy for customers to see the company's competitive advantage?"
+                        },
+                        {
+                          "id": "F1922",
+                          "name": "It the company consolidating a market or replacing several products with a single offering?"
+                        },
+                        {
+                          "id": "F1924",
+                          "name": "How entrenched and established are the competitors - what are their market shares?"
+                        },
+                        {
+                          "id": "F1926",
+                          "name": "Are the competitors financially stable?"
+                        },
+                        {
+                          "id": "F1928",
+                          "name": "What is the company's market share?"
+                        },
+                        {
+                          "id": "F1930",
+                          "name": "What elements need to be in place to ensure the company will win?"
+                        },
+                        {
+                          "id": "F1932",
+                          "name": "Is there a detailed feature-by-feature competitive analysis?"
+                        },
+                        {
+                          "id": "FR173",
+                          "name": "Does the company intend to use pricing changes to counter competition and move into new markets?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG710",
+                  "name": "Additional Marketing & Sales Questions",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FG808",
+          "name": "Research & Development Due-Diligence Review",
+          "children": [
+            { "id": "FG810", "name": "Reasons to Invest", "children": [] },
+            { "id": "FG811", "name": "Reasons to be Cautious", "children": [] },
+            {
+              "id": "FG812",
+              "name": "Product Research & Development Due-Diligence Questions",
+              "children": [
+                {
+                  "id": "FG813",
+                  "name": "Technology Assessment",
+                  "children": [
+                    {
+                      "id": "FG826",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1846",
+                          "name": "Do they have market requirements and functional specifications?"
+                        },
+                        {
+                          "id": "F1848",
+                          "name": "At what stage is development? Concept, alpha, beta, shipping?"
+                        },
+                        {
+                          "id": "F1850",
+                          "name": "Does the company have any usability studies?"
+                        },
+                        {
+                          "id": "F1852",
+                          "name": "Does the company have adequate intellectual-property protection? Does it need it?"
+                        },
+                        {
+                          "id": "F1854",
+                          "name": "Is the company relying on being first to market, rather than on any IP position, for competitive advantage, and is this realistic?"
+                        },
+                        {
+                          "id": "F1856",
+                          "name": "What is product quality assurance like?"
+                        },
+                        {
+                          "id": "F1858",
+                          "name": "Is it proprietary architecture or open-source code?"
+                        },
+                        {
+                          "id": "F1860",
+                          "name": "Do they have adequate systems in place to identify and protect IP?"
+                        },
+                        {
+                          "id": "F1862",
+                          "name": "Who in the company is focused on these issues?"
+                        },
+                        {
+                          "id": "F1864",
+                          "name": "Has the company properly set up relationships and documentation to ensure ownership of all intellectual property?"
+                        },
+                        {
+                          "id": "F1866",
+                          "name": "Does the company own all necessary intellectual property through internal development or licenses?"
+                        },
+                        {
+                          "id": "F1910",
+                          "name": "Do any other companies have potential claims to the IP resulting from previous employment relationships or for any other reason?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG853",
+                  "name": "Additional Product Research & Development Questions",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "FG756",
+          "name": "Finance & Operations Due-Diligence Review",
+          "children": [
+            { "id": "FG758", "name": "Reasons to Invest", "children": [] },
+            { "id": "FG759", "name": "Reasons to be Cautious", "children": [] },
+            {
+              "id": "FG760",
+              "name": "Finance & Operations Due-Diligence Questions",
+              "children": [
+                {
+                  "id": "FG740",
+                  "name": "Corporate Structure & Governance",
+                  "children": [
+                    {
+                      "id": "FG742",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1760",
+                          "name": "What is the company’s corporate structure? C corp., S corp., LLC or LP? Does this model allow for a liquidity event and/or return on investment?"
+                        },
+                        { "id": "F1762", "name": "Is there an exit strategy?" },
+                        {
+                          "id": "F1764",
+                          "name": "Is the corporate structure overly complicated? If so, why, and might it be simplified?"
+                        },
+                        {
+                          "id": "F1766",
+                          "name": "How many existing shareholders? Too numerous, and, if so, why?"
+                        },
+                        {
+                          "id": "F1768",
+                          "name": "Does the corporate structure fit with the business model?"
+                        },
+                        {
+                          "id": "F1770",
+                          "name": "Does the corporate structure allow for growth?"
+                        },
+                        {
+                          "id": "F1772",
+                          "name": "What is the founder share allocation? Do they have a large enough stake to have the incentive to succeed, but not so large as to ignore board and other advisors? Is the founders’ stock vested over time?"
+                        },
+                        {
+                          "id": "F1774",
+                          "name": "Who is on the board of directors? Do they have the right background for the company? Is there a sufficient number of outside directors? How are board members compensated?"
+                        },
+                        {
+                          "id": "F1776",
+                          "name": "Does the company have a board of advisors and, if so, who is on the board? Do the advisors actively participate in the company’s development? How are advisors compensated?"
+                        },
+                        {
+                          "id": "F1778",
+                          "name": "Has the company been involved in any litigation or been threatened with litigation?"
+                        },
+                        {
+                          "id": "F1782",
+                          "name": "Does the company have all required permits and licenses?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG779",
+                  "name": "Financial Assumptions & Revenue Sources",
+                  "children": [
+                    {
+                      "id": "FG781",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1784",
+                          "name": "Has the company completed one-, three- and five-year financial projections?"
+                        },
+                        {
+                          "id": "F1786",
+                          "name": "Have the financial documents been properly developed according to applicable accounting rules?"
+                        },
+                        {
+                          "id": "F1788",
+                          "name": "Has the company used an outside, independent accounting firm to compile, review, or audit financials?"
+                        },
+                        {
+                          "id": "F1790",
+                          "name": "How good are the assumptions? (rate of growth, acceptance rate, pricing, multiple revenue streams, costs)"
+                        },
+                        { "id": "F1792", "name": "Are revenues realistic?" },
+                        {
+                          "id": "F1794",
+                          "name": "When does the company reach cash flow positive, and what cash requirements will it take to get there?"
+                        },
+                        {
+                          "id": "F1796",
+                          "name": "Has the company already received funding, and, if so, how much; what are pre-money valuation and terms?"
+                        },
+                        {
+                          "id": "F1798",
+                          "name": "What are the follow-on funding requirements and sources? Has the company properly anticipated future needs, and is it already working on those?"
+                        },
+                        {
+                          "id": "F1800",
+                          "name": " Have all tax returns been properly filed?"
+                        },
+                        {
+                          "id": "F1802",
+                          "name": "What is the company’s debt carry? What are the ratios?"
+                        },
+                        {
+                          "id": "F1806",
+                          "name": "Is the company’s current valuation aligned with its current stage of development and market potential?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG794",
+                  "name": "Operations",
+                  "children": [
+                    {
+                      "id": "FG796",
+                      "name": "Company's Response",
+                      "children": [
+                        {
+                          "id": "F1808",
+                          "name": "Does the company have an operating plan or outline of the same if early stage?"
+                        },
+                        {
+                          "id": "F1810",
+                          "name": "Has the company considered all aspects of operation to successfully launch a product or service?"
+                        },
+                        {
+                          "id": "F1812",
+                          "name": "Does the operating plan anticipate growth? Is anticipated growth realistic?"
+                        },
+                        {
+                          "id": "F1814",
+                          "name": "Has the company received any citations or notices of violation?"
+                        },
+                        {
+                          "id": "F1816",
+                          "name": "For more mature companies, does each division of the company have an operating plan, and are they compatible?"
+                        },
+                        {
+                          "id": "F1818",
+                          "name": "Does management meet regularly to ensure compliance with plan or make needed adjustments?"
+                        },
+                        {
+                          "id": "F1820",
+                          "name": "Has the company been able to stay on plan?"
+                        },
+                        {
+                          "id": "F1822",
+                          "name": "Does the plan take into consideration all cash needs and anticipated cash flow?"
+                        },
+                        {
+                          "id": "F1824",
+                          "name": "Does the company have an alternative plan if assumptions do not hold, such as for product rollout, cash needs, and market response?"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "FG807",
+                  "name": "Additional Finance & Operations Questions",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FG268",
+      "name": "DIGITAL DATA ROOM",
+      "children": [
+        {
+          "id": "FG269",
+          "name": "Corporate Records and Charter Documents",
+          "children": [
+            { "id": "FG602", "name": "Meeting Minutes", "children": [] },
+            { "id": "FG622", "name": "Certificates", "children": [] },
+            {
+              "id": "FG623",
+              "name": "Subsidiary Minutes & Certificates",
+              "children": []
+            },
+            { "id": "FG624", "name": "Entity Org. Chart", "children": [] }
+          ]
+        },
+        {
+          "id": "FG272",
+          "name": "Security Issuance\n",
+          "children": [
+            { "id": "FG629", "name": "Shareholder Agreements", "children": [] },
+            {
+              "id": "FG1153",
+              "name": "Convertible Debt Agreements",
+              "children": []
+            },
+            { "id": "FG1154", "name": "SAFE ", "children": [] },
+            { "id": "FG1155", "name": "Loan Agreements", "children": [] },
+            {
+              "id": "FG1156",
+              "name": "Subscription Agreements ",
+              "children": []
+            },
+            {
+              "id": "FG628",
+              "name": "Options, warrants & rights",
+              "children": []
+            },
+            { "id": "FG630", "name": "Vesting", "children": [] },
+            {
+              "id": "FG631",
+              "name": "Voting & Share Transfers",
+              "children": []
+            },
+            {
+              "id": "FG632",
+              "name": "Legal restrictions on security issuance or transfer",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "FG270",
+          "name": "Business Plan and Financials",
+          "children": [
+            { "id": "FG621", "name": "Current business plan", "children": [] },
+            { "id": "FG703", "name": "Financial statements", "children": [] }
+          ]
+        },
+        {
+          "id": "FG271",
+          "name": "Intellectual Property\n",
+          "children": [
+            {
+              "id": "FG626",
+              "name": "Trademarks, patents, copyrights & domain names",
+              "children": []
+            },
+            { "id": "FG625", "name": "IP Assignments", "children": [] }
+          ]
+        },
+        {
+          "id": "FG273",
+          "name": "Material Agreements",
+          "children": [
+            {
+              "id": "FG638",
+              "name": "Management, Service & Marketing Agreements",
+              "children": []
+            },
+            { "id": "FG639", "name": "Confidentiality & NDA", "children": [] },
+            {
+              "id": "FG640",
+              "name": "Financing Consent or Approval Agreements",
+              "children": []
+            },
+            { "id": "FG641", "name": "Consulting Contracts", "children": [] },
+            {
+              "id": "FG642",
+              "name": "JV and Partnership Agreements",
+              "children": []
+            },
+            {
+              "id": "FG643",
+              "name": "Standard Form Agreements",
+              "children": []
+            },
+            {
+              "id": "FG644",
+              "name": "Judgments, Orders, Writs or Decrees",
+              "children": []
+            },
+            { "id": "FG645", "name": "Insurance Policies", "children": [] },
+            { "id": "FG646", "name": "Licenses or Agreements", "children": [] },
+            { "id": "FG647", "name": "Loans or Advances", "children": [] },
+            {
+              "id": "FG648",
+              "name": "Mortgages, Liens, Loans & Encumbrances",
+              "children": []
+            },
+            { "id": "FG601", "name": "Officers & Directors", "children": [] },
+            {
+              "id": "FG633",
+              "name": "Standard Terms of Service or Terms of Use",
+              "children": []
+            },
+            {
+              "id": "FG634",
+              "name": "Transactions over $25,000",
+              "children": []
+            },
+            {
+              "id": "FG635",
+              "name": "Personal Property Leases",
+              "children": []
+            },
+            { "id": "FG636", "name": "Real Estate Agreements", "children": [] },
+            { "id": "FG637", "name": "Debt and Liabilities", "children": [] },
+            {
+              "id": "FG650",
+              "name": "Other Material Agreements",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "FG274",
+          "name": "Disputes & Potential Litigation",
+          "children": [
+            {
+              "id": "FG653",
+              "name": "Pending Actions, Suits, Proceedings or Investications",
+              "children": []
+            },
+            {
+              "id": "FG654",
+              "name": "Proprietary Rights Correspondence",
+              "children": []
+            },
+            {
+              "id": "FG655",
+              "name": "Labor Agreement Disputes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "FG275",
+          "name": "Employee Information",
+          "children": [
+            {
+              "id": "FG656",
+              "name": "List of Employees & Consultants",
+              "children": []
+            },
+            {
+              "id": "FG658",
+              "name": "Standard Employment Offer",
+              "children": []
+            },
+            {
+              "id": "FG659",
+              "name": "Agreements with Officers, Directors & Affiliates",
+              "children": []
+            },
+            {
+              "id": "FG660",
+              "name": "Change-in-Control Triggered Agreements",
+              "children": []
+            },
+            {
+              "id": "FG661",
+              "name": "Severance & Deferred Compensation",
+              "children": []
+            },
+            { "id": "FG662", "name": "Employee Benefit Plans", "children": [] },
+            { "id": "FG663", "name": "Stock Grants & Options", "children": [] },
+            { "id": "FG699", "name": "Employer 401(k)", "children": [] },
+            {
+              "id": "FG700",
+              "name": "Loans to Employees, Directors or Consultants",
+              "children": []
+            },
+            { "id": "FG701", "name": "Employee Handbook", "children": [] },
+            { "id": "F701", "name": "Equity Grants" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "FG577",
+      "name": "BUSINESS PLAN",
+      "children": [
+        {
+          "id": "FG168",
+          "name": "MARKETING & SALES",
+          "children": [
+            { "id": "F2387", "name": "Elevator Pitch" },
+            { "id": "F2386", "name": "2-Minute Pitch" },
+            {
+              "id": "FG1111",
+              "name": "Foundation",
+              "children": [
+                { "id": "F2256", "name": "Vision" },
+                { "id": "F2257", "name": "Mission" },
+                { "id": "FG1112", "name": "Values", "children": [] }
+              ]
+            },
+            {
+              "id": "FG223",
+              "name": "Market Opportunity",
+              "children": [
+                { "id": "F2394", "name": "Market Overview" },
+                { "id": "FG704", "name": "Customer Segments", "children": [] },
+                { "id": "FG600", "name": "Problem", "children": [] }
+              ]
+            },
+            { "id": "FG1110", "name": "Current Traction", "children": [] },
+            {
+              "id": "FR151",
+              "name": "Marketing & Sales - Strengths & Opportunities",
+              "children": []
+            },
+            {
+              "id": "FR132",
+              "name": "Marketing & Sales - Threats & Weaknesses (Risks)",
+              "children": []
+            },
+            {
+              "id": "FG1093",
+              "name": "Existing Alternatives - Competition",
+              "children": []
+            },
+            { "id": "FG1158", "name": "Our Solution", "children": [] },
+            { "id": "FG1109", "name": "Channels", "children": [] },
+            {
+              "id": "FG1094",
+              "name": "Unique Value Proposition",
+              "children": []
+            },
+            {
+              "id": "FG1114",
+              "name": "Marketing & Sales - Strategic Goals",
+              "children": []
+            },
+            {
+              "id": "FG1117",
+              "name": "Marketing & Sales - Metrics",
+              "children": []
+            },
+            { "id": "FG1170", "name": "Early Adopters", "children": [] }
+          ]
+        },
+        {
+          "id": "FG598",
+          "name": "FINANCE & OPERATIONS",
+          "children": [
+            {
+              "id": "FR159",
+              "name": "Offering Deal Structure",
+              "children": []
+            },
+            { "id": "FG1139", "name": "Historical Financials", "children": [] },
+            { "id": "FG1140", "name": "Current Year Budget", "children": [] },
+            {
+              "id": "FR121",
+              "name": "Finance & Operations - Strengths & Opportunities",
+              "children": []
+            },
+            {
+              "id": "FR126",
+              "name": "Finance & Operations - Threats & Weaknesses (Risks)",
+              "children": []
+            },
+            {
+              "id": "FG1142",
+              "name": "Finance & Operations - Strategic Goals",
+              "children": []
+            },
+            {
+              "id": "FG1141",
+              "name": "5-Year Quarterly Financial Plan",
+              "children": []
+            },
+            { "id": "FR147", "name": "KPIs & Ratios", "children": [] },
+            {
+              "id": "FR93",
+              "name": "Financial Model Assumptions",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "FG578",
+          "name": "PRODUCTS & SERVICES",
+          "children": [
+            {
+              "id": "FR75",
+              "name": "Products & Services - Strengths & Opportunities",
+              "children": []
+            },
+            {
+              "id": "FR138",
+              "name": "Products & Service - Threats & Weaknesses (Risks)",
+              "children": []
+            },
+            {
+              "id": "FG1151",
+              "name": "Products & Services - Strategic Goals",
+              "children": []
+            },
+            {
+              "id": "FG1147",
+              "name": "Current & Planned Products & Services",
+              "children": []
+            },
+            {
+              "id": "FR166",
+              "name": "Product Testing, Quality Assurance & Support",
+              "children": []
+            },
+            {
+              "id": "FG1148",
+              "name": "Intellectual Property & Brand Protection",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "FG579",
+          "name": "MANAGEMENT & STAFFING",
+          "children": [
+            { "id": "FG1128", "name": "Founders & Core Team", "children": [] },
+            {
+              "id": "FG1133",
+              "name": "Board of Directors & Advisors",
+              "children": []
+            },
+            {
+              "id": "FR13",
+              "name": "Management & Staffing - Strengths & Opportunities",
+              "children": []
+            },
+            {
+              "id": "FR80",
+              "name": "Management & Staffing - Threats & Weaknesses (Risks)",
+              "children": []
+            },
+            {
+              "id": "FG1137",
+              "name": "Staffing & Human Resources - Strategic Goals",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
